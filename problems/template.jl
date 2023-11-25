@@ -1,5 +1,3 @@
-# Project Euler Problem Template in Julia
-
 """
 Problem X: Problem Title
 
