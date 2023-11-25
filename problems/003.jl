@@ -1,5 +1,3 @@
-# Project Euler Problem Template in Julia
-
 """
 Problem 3: Largest prime factor
 
